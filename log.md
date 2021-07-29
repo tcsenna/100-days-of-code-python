@@ -17,6 +17,16 @@ I have rewritten my Caesar Cypher code to use only the concepts covered by Angel
 
 **Thoughts** I enjoyed building a blind auction program.
 
-**Link(s) to work** [Blind Auction Program](https://github.com/tcsenna/100-days-of-code-python/blob/main/Projects/Day_09/SecretAuction.ipynb) 
+**Link(s) to work:** [Blind Auction Program](https://github.com/tcsenna/100-days-of-code-python/blob/main/Projects/Day_09/SecretAuction.ipynb) 
+
+
+### Day 10: July 29, 2021
+
+**Today's Progress**: Still digging in the basics: Today I reviewed Python functions with returned values, recursion...
+
+**Thoughts** I've built a calculator program.
+
+**Link(s) to work:** [Calculator Program](https://github.com/tcsenna/100-days-of-code-python/blob/main/Projects/Day_09/Calculator.ipynb) 
+
 
 
