@@ -26,7 +26,17 @@ I have rewritten my Caesar Cypher code to use only the concepts covered by Angel
 
 **Thoughts** I've built a calculator program.
 
-**Link(s) to work:** [Calculator Program](https://github.com/tcsenna/100-days-of-code-python/blob/main/Projects/Day_09/Calculator.ipynb) 
+**Link(s) to work:** [Calculator Program](https://github.com/tcsenna/100-days-of-code-python/blob/main/Projects/Day_10/Calculator.ipynb) 
+
+### Day 12: August 3, 2021
+
+**Today's Progress**: Today I reviewed Python Scope, LEGB rule, interesting insights on namescapes, etc.
+I also started #30daysofML challenge, proposed by Kaggle.
+
+**Thoughts** I've built a "Guess the number" program.
+
+**Link(s) to work:** [Class Notes + Mystery Number](https://github.com/tcsenna/100-days-of-code-python/blob/main/Projects/Day_11/Scope.ipynb) 
+
 
 
 
