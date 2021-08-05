@@ -37,6 +37,23 @@ I also started #30daysofML challenge, proposed by Kaggle.
 
 **Link(s) to work:** [Class Notes + Mystery Number](https://github.com/tcsenna/100-days-of-code-python/blob/main/Projects/Day_11/Scope.ipynb) 
 
+### Day 13: August 4, 2021
+
+**Today's Progress**: Today I started my deep dive into OOP. The instructor also gave important insights regarding debugging methodologies.
+
+**Thoughts** Learning many different tools. I am really enjoying my Python adventure.
+
+**Link(s) to work:** 
+
+### Day 14: August 5, 2021
+
+**Today's Progress**: I keep studying OOP concepts. The bootcamp assignment for today was great to review all the basics that we have studied so far and to build a strong foundation.
+
+**Thoughts** I've built a "Higher Lower" game. Sometimes reviewing the basics and reading the documentation can be very boring, but without building a strong foundation, one can never become a great professional.
+
+**Link(s) to work:** [Higher Lower Game](https://github.com/tcsenna/100-days-of-code-python/blob/main/Projects/Day_14/higher_lower.ipynb) 
+
+
 
 
 
